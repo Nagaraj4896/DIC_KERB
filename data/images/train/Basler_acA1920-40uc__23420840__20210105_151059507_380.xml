@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>Basler_acA1920-40uc__23420840__20210105_151059507_380.bmp</filename>
+    <path>CTM_IMAGES-PascalVOC-export/Annotations/Basler_acA1920-40uc__23420840__20210105_151059507_380.bmp</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1200</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>RKRD-MODERATE</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>670.3112313937754</xmin>
+        <ymin>442.85714285714283</ymin>
+        <xmax>1850.1150202976996</xmax>
+        <ymax>1200</ymax>
+    </bndbox>
+</object><object>
+    <name>DICRD-CLEAN</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>934.2828146143438</xmin>
+        <ymin>80.51948051948052</ymin>
+        <xmax>1033.0108254397835</xmax>
+        <ymax>149.35064935064935</ymax>
+    </bndbox>
+</object><object>
+    <name>DICRD-CLEAN</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>808.2746955345061</xmin>
+        <ymin>174.02597402597402</ymin>
+        <xmax>1016.1231393775372</xmax>
+        <ymax>324.67532467532465</ymax>
+    </bndbox>
+</object>
+</annotation>
